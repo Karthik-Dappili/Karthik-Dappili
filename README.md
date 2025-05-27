@@ -6,7 +6,7 @@ With a strong background in data analysis, statistics, and Data Visualization, I
 📈 Skills:
 
 Data Analysis: Python, R, SQL, Excel
-Visualization: Power BI, Matplotlib, Seaborn
+Visualization: Power BI, Matplotlib, Seaborn,
 Data Wrangling: Pandas, NumPy
 Databases: MySQL, SQL
 Tools: Jupyter Notebook, GitHub
