@@ -5,10 +5,10 @@ With a strong background in data analysis, statistics, and Data Visualization, I
 
 📈 Skills:
 
-Data Analysis: Python, R, SQL, Excel
+Data Analysis: Python, SQL, Excel
 Visualization: Power BI, Matplotlib, Seaborn,
 Data Wrangling: Pandas, NumPy
-Databases: MySQL, SQL
+Databases: MySQL
 Tools: Jupyter Notebook, GitHub
 
 🌱 Currently Learning:
@@ -16,7 +16,7 @@ Advanced machine learning techniques
 
 🔗 Let's Connect:
 
-[LinkedIn](https://www.linkedin.com/in/karthik-kumar-reddy-dappili-a63946307/)
+[LinkedIn](https://www.linkedin.com/in/karthik-reddy-dappili/)
 [Portfolio](https://www.datascienceportfol.io/KarthikDappili)
-Email: dappilikarthik@gmail.com
+Email: karthikreddydappili@gmail.com
 
